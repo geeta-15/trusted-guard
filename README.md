@@ -4,7 +4,7 @@
 Trusted Guard is a phishing detection prototype that analyzes messages and identifies suspicious content like OTP requests, urgency, and sensitive data.
 
 ## Prototype Link
-https://sites.google.com/view/trusted-guard
+https://secure-inbox-19.preview.emergentagent.com/
 
 ## MVP
 Built using Glide app (demo via screenshots)
